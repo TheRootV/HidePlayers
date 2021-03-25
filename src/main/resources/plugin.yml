@@ -1,0 +1,11 @@
+name: Hideplugin
+version: ${project.version}
+main: me.beat.hideplugin.Hideplugin
+api-version: 1.16
+authors: [ BeatBoxMaster123 ]
+description: A plugin that hides players
+commands:
+  hide:
+    description: Hides players.
+  show:
+    description: Shows players.
